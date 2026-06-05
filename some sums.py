@@ -1,2 +1,1 @@
-#Some Sums Description: Given three numbers N, A, B.
-#Print the summation of the numbers between 1 and N whose sum of digits is between A and B inclusive.
+
